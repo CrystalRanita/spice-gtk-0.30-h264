@@ -36,7 +36,7 @@ libdir = ${exec_prefix}/lib
 DATADIRNAME = share
 itlocaledir = $(prefix)/$(DATADIRNAME)/locale
 subdir = po
-install_sh = ${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/build-aux/install-sh
+install_sh = ${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/build-aux/install-sh
 # Automake >= 1.8 provides $(MKDIR_P).
 # Until it can be supposed, use the safe fallback:
 mkdir_p = $(install_sh) -d

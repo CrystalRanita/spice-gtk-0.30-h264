@@ -12,8 +12,8 @@ h264_decoder.lo: h264_decoder.c /usr/include/stdc-predef.h h264_decoder.h \
  /usr/include/x86_64-linux-gnu/bits/mathdef.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/mathinline.h /usr/include/assert.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/opt.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/rational.h \
+ /usr/include/ffmpeg/include/libavutil/opt.h \
+ /usr/include/ffmpeg/include/libavutil/rational.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed/limits.h \
@@ -22,9 +22,9 @@ h264_decoder.lo: h264_decoder.c /usr/include/stdc-predef.h h264_decoder.h \
  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
  /usr/include/linux/limits.h \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/attributes.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/avutil.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/common.h \
+ /usr/include/ffmpeg/include/libavutil/attributes.h \
+ /usr/include/ffmpeg/include/libavutil/avutil.h \
+ /usr/include/ffmpeg/include/libavutil/common.h \
  /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
  /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
@@ -57,40 +57,40 @@ h264_decoder.lo: h264_decoder.c /usr/include/stdc-predef.h h264_decoder.h \
  /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
  /usr/include/x86_64-linux-gnu/bits/string2.h \
  /usr/include/x86_64-linux-gnu/bits/string3.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/version.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/macros.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/avconfig.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/mem.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/error.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/mathematics.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/intfloat.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/log.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/pixfmt.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/old_pix_fmts.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/dict.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/samplefmt.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavcodec/avcodec.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/samplefmt.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/attributes.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/avutil.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/buffer.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/cpu.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/channel_layout.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/dict.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/frame.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/buffer.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/log.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/pixfmt.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/rational.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavcodec/version.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/version.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavcodec/old_codec_ids.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/common.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/imgutils.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/pixdesc.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libavutil/mathematics.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libswscale/swscale.h \
- /home/wenzuoyi/Proj/ffmpeg/include/libswscale/version.h h264_type.h
+ /usr/include/ffmpeg/include/libavutil/version.h \
+ /usr/include/ffmpeg/include/libavutil/macros.h \
+ /usr/include/ffmpeg/include/libavutil/avconfig.h \
+ /usr/include/ffmpeg/include/libavutil/mem.h \
+ /usr/include/ffmpeg/include/libavutil/error.h \
+ /usr/include/ffmpeg/include/libavutil/mathematics.h \
+ /usr/include/ffmpeg/include/libavutil/intfloat.h \
+ /usr/include/ffmpeg/include/libavutil/log.h \
+ /usr/include/ffmpeg/include/libavutil/pixfmt.h \
+ /usr/include/ffmpeg/include/libavutil/old_pix_fmts.h \
+ /usr/include/ffmpeg/include/libavutil/dict.h \
+ /usr/include/ffmpeg/include/libavutil/samplefmt.h \
+ /usr/include/ffmpeg/include/libavcodec/avcodec.h \
+ /usr/include/ffmpeg/include/libavutil/samplefmt.h \
+ /usr/include/ffmpeg/include/libavutil/attributes.h \
+ /usr/include/ffmpeg/include/libavutil/avutil.h \
+ /usr/include/ffmpeg/include/libavutil/buffer.h \
+ /usr/include/ffmpeg/include/libavutil/cpu.h \
+ /usr/include/ffmpeg/include/libavutil/channel_layout.h \
+ /usr/include/ffmpeg/include/libavutil/dict.h \
+ /usr/include/ffmpeg/include/libavutil/frame.h \
+ /usr/include/ffmpeg/include/libavutil/buffer.h \
+ /usr/include/ffmpeg/include/libavutil/log.h \
+ /usr/include/ffmpeg/include/libavutil/pixfmt.h \
+ /usr/include/ffmpeg/include/libavutil/rational.h \
+ /usr/include/ffmpeg/include/libavcodec/version.h \
+ /usr/include/ffmpeg/include/libavutil/version.h \
+ /usr/include/ffmpeg/include/libavcodec/old_codec_ids.h \
+ /usr/include/ffmpeg/include/libavutil/common.h \
+ /usr/include/ffmpeg/include/libavutil/imgutils.h \
+ /usr/include/ffmpeg/include/libavutil/pixdesc.h \
+ /usr/include/ffmpeg/include/libavutil/mathematics.h \
+ /usr/include/ffmpeg/include/libswscale/swscale.h \
+ /usr/include/ffmpeg/include/libswscale/version.h h264_type.h
 
 /usr/include/stdc-predef.h:
 
@@ -126,9 +126,9 @@ h264_decoder.h:
 
 /usr/include/assert.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/opt.h:
+/usr/include/ffmpeg/include/libavutil/opt.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/rational.h:
+/usr/include/ffmpeg/include/libavutil/rational.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
 
@@ -150,11 +150,11 @@ h264_decoder.h:
 
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/attributes.h:
+/usr/include/ffmpeg/include/libavutil/attributes.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/avutil.h:
+/usr/include/ffmpeg/include/libavutil/avutil.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/common.h:
+/usr/include/ffmpeg/include/libavutil/common.h:
 
 /usr/include/errno.h:
 
@@ -244,72 +244,72 @@ h264_decoder.h:
 
 /usr/include/x86_64-linux-gnu/bits/string3.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/version.h:
+/usr/include/ffmpeg/include/libavutil/version.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/macros.h:
+/usr/include/ffmpeg/include/libavutil/macros.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/avconfig.h:
+/usr/include/ffmpeg/include/libavutil/avconfig.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/mem.h:
+/usr/include/ffmpeg/include/libavutil/mem.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/error.h:
+/usr/include/ffmpeg/include/libavutil/error.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/mathematics.h:
+/usr/include/ffmpeg/include/libavutil/mathematics.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/intfloat.h:
+/usr/include/ffmpeg/include/libavutil/intfloat.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/log.h:
+/usr/include/ffmpeg/include/libavutil/log.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/pixfmt.h:
+/usr/include/ffmpeg/include/libavutil/pixfmt.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/old_pix_fmts.h:
+/usr/include/ffmpeg/include/libavutil/old_pix_fmts.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/dict.h:
+/usr/include/ffmpeg/include/libavutil/dict.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/samplefmt.h:
+/usr/include/ffmpeg/include/libavutil/samplefmt.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavcodec/avcodec.h:
+/usr/include/ffmpeg/include/libavcodec/avcodec.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/samplefmt.h:
+/usr/include/ffmpeg/include/libavutil/samplefmt.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/attributes.h:
+/usr/include/ffmpeg/include/libavutil/attributes.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/avutil.h:
+/usr/include/ffmpeg/include/libavutil/avutil.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/buffer.h:
+/usr/include/ffmpeg/include/libavutil/buffer.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/cpu.h:
+/usr/include/ffmpeg/include/libavutil/cpu.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/channel_layout.h:
+/usr/include/ffmpeg/include/libavutil/channel_layout.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/dict.h:
+/usr/include/ffmpeg/include/libavutil/dict.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/frame.h:
+/usr/include/ffmpeg/include/libavutil/frame.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/buffer.h:
+/usr/include/ffmpeg/include/libavutil/buffer.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/log.h:
+/usr/include/ffmpeg/include/libavutil/log.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/pixfmt.h:
+/usr/include/ffmpeg/include/libavutil/pixfmt.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/rational.h:
+/usr/include/ffmpeg/include/libavutil/rational.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavcodec/version.h:
+/usr/include/ffmpeg/include/libavcodec/version.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/version.h:
+/usr/include/ffmpeg/include/libavutil/version.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavcodec/old_codec_ids.h:
+/usr/include/ffmpeg/include/libavcodec/old_codec_ids.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/common.h:
+/usr/include/ffmpeg/include/libavutil/common.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/imgutils.h:
+/usr/include/ffmpeg/include/libavutil/imgutils.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/pixdesc.h:
+/usr/include/ffmpeg/include/libavutil/pixdesc.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libavutil/mathematics.h:
+/usr/include/ffmpeg/include/libavutil/mathematics.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libswscale/swscale.h:
+/usr/include/ffmpeg/include/libswscale/swscale.h:
 
-/home/wenzuoyi/Proj/ffmpeg/include/libswscale/version.h:
+/usr/include/ffmpeg/include/libswscale/version.h:
 
 h264_type.h:

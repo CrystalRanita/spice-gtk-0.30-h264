@@ -2133,7 +2133,7 @@ config.status:1662: executing depfiles commands
 config.status:1662: executing libtool commands
 config.status:1662: executing default-1 commands
 config.status:1662: executing po/stamp-it commands
-configure:23089: === configuring in spice-common (/home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common)
+configure:23089: === configuring in spice-common (/home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common)
 configure:23152: running /bin/bash ./configure --disable-option-checking '--prefix=/usr/local'  '--with-gtl=3.0' '--enable-usbdir=yes' '--enable-usbredir=yes' '--with-python=yes' '--enable-smartcard=no' '--with-gtk=2.0' '--with-audio=gstreamer' '--with-coroutine=gthread' --cache-file=/dev/null --srcdir=.
 configure:23190:
 
@@ -2528,7 +2528,7 @@ rra_cv_ld_version_script=yes
 ## Output variables. ##
 ## ----------------- ##
 
-ACLOCAL='${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/build-aux/missing aclocal-1.14'
+ACLOCAL='${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/build-aux/missing aclocal-1.14'
 ACL_HELPER_DIR='${exec_prefix}/bin/'
 ACL_LIBS=''
 ALL_LINGUAS=''
@@ -2542,9 +2542,9 @@ AM_DEFAULT_VERBOSITY='0'
 AM_V='$(V)'
 AR='ar'
 AS='as'
-AUTOCONF='${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/build-aux/missing autoconf'
-AUTOHEADER='${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/build-aux/missing autoheader'
-AUTOMAKE='${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/build-aux/missing automake-1.14'
+AUTOCONF='${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/build-aux/missing autoconf'
+AUTOHEADER='${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/build-aux/missing autoheader'
+AUTOMAKE='${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/build-aux/missing automake-1.14'
 AWK='mawk'
 BUILD_TESTS_FALSE=''
 BUILD_TESTS_TRUE='#'
@@ -2680,7 +2680,7 @@ LZ4_LIBS=' '
 MAINT='#'
 MAINTAINER_MODE_FALSE=''
 MAINTAINER_MODE_TRUE='#'
-MAKEINFO='${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/build-aux/missing makeinfo'
+MAKEINFO='${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/build-aux/missing makeinfo'
 MANIFEST_TOOL=':'
 MKDIR_P='/bin/mkdir -p'
 MKINSTALLDIRS='build-aux/mkinstalldirs'
@@ -2840,7 +2840,7 @@ host_vendor='unknown'
 htmldir='${docdir}'
 includedir='${prefix}/include'
 infodir='${datarootdir}/info'
-install_sh='${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/build-aux/install-sh'
+install_sh='${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/build-aux/install-sh'
 intltool__v_merge_options_0='-q'
 intltool__v_merge_options_='$(intltool__v_merge_options_$(AM_DEFAULT_VERBOSITY))'
 libdir='${exec_prefix}/lib'

@@ -437,7 +437,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common'
+ac_pwd='/home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common'
 srcdir='.'
 INSTALL='/usr/bin/install -c'
 MKDIR_P='/bin/mkdir -p'
@@ -907,12 +907,12 @@ S["mkdir_p"]="$(MKDIR_P)"
 S["MKDIR_P"]="/bin/mkdir -p"
 S["INSTALL_STRIP_PROGRAM"]="$(install_sh) -c -s"
 S["STRIP"]="strip"
-S["install_sh"]="${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common/build-aux/install-sh"
-S["MAKEINFO"]="${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common/build-aux/missing makeinfo"
-S["AUTOHEADER"]="${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common/build-aux/missing autoheader"
-S["AUTOMAKE"]="${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common/build-aux/missing automake-1.14"
-S["AUTOCONF"]="${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common/build-aux/missing autoconf"
-S["ACLOCAL"]="${SHELL} /home/wenzuoyi/Proj/spice-gtk-0.30/spice-gtk-0.30/spice-common/build-aux/missing aclocal-1.14"
+S["install_sh"]="${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common/build-aux/install-sh"
+S["MAKEINFO"]="${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common/build-aux/missing makeinfo"
+S["AUTOHEADER"]="${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common/build-aux/missing autoheader"
+S["AUTOMAKE"]="${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common/build-aux/missing automake-1.14"
+S["AUTOCONF"]="${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common/build-aux/missing autoconf"
+S["ACLOCAL"]="${SHELL} /home/fedora/workdir/vdi_h264/spice-gtk-0.30-h264/spice-gtk-0.30/spice-common/build-aux/missing aclocal-1.14"
 S["VERSION"]="noversion"
 S["PACKAGE"]="spice-common"
 S["CYGPATH_W"]="echo"
